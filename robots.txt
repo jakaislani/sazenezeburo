@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://sazenezeburo.netlify.app/sitemap.xml
